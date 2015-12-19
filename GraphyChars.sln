@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphyChars", "GraphyChars\GraphyChars.csproj", "{A5BC6751-51B7-440F-9B4B-E1B95194E016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs", "Graphs\Graphs.csproj", "{D29BABE3-DF25-42A4-AAFD-CB7613AD6444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BC6751-51B7-440F-9B4B-E1B95194E016}.Debug|x86.ActiveCfg = Debug|x86
+		{A5BC6751-51B7-440F-9B4B-E1B95194E016}.Debug|x86.Build.0 = Debug|x86
+		{A5BC6751-51B7-440F-9B4B-E1B95194E016}.Release|x86.ActiveCfg = Release|x86
+		{A5BC6751-51B7-440F-9B4B-E1B95194E016}.Release|x86.Build.0 = Release|x86
+		{D29BABE3-DF25-42A4-AAFD-CB7613AD6444}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D29BABE3-DF25-42A4-AAFD-CB7613AD6444}.Debug|x86.Build.0 = Debug|Any CPU
+		{D29BABE3-DF25-42A4-AAFD-CB7613AD6444}.Release|x86.ActiveCfg = Release|Any CPU
+		{D29BABE3-DF25-42A4-AAFD-CB7613AD6444}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GraphyChars\GraphyChars.csproj
+	EndGlobalSection
+EndGlobal
